@@ -1,0 +1,2 @@
+# gitworkshopdtu
+information regarding git
